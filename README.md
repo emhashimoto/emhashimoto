@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-<img style="width: 60%" src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/hashimoto.png" alt="my banner"> 
-</div>
+<img style="width: 100%" src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/ehashimoto.png" alt="my banner"> 
 
 <!--
 ## Hi there 👋
