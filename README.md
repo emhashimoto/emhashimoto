@@ -3,9 +3,9 @@ src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/mhashimoto.p
 
 👩‍💼 I’m currently a Associate Professor of Statistics
 
-🌱 I’m a PhD in Agricultural Statistics and Experimentation, <strong>USP</strong>
+🌱 I’m a PhD in Agricultural Statistics and Experimentation, USP
 
-🎓 Bachelor degree in Statistics, <strong>UNESP</strong>; Master degree in Agricultural Statistics and Experimentation, <strong>USP</strong>
+🎓 Bachelor degree in Statistics, UNESP; Master degree in Agricultural Statistics and Experimentation, USP
 
 🔎 My research interests include:
 <ul>
