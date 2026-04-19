@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <tr>
 <td>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fabiopviera&show_icons=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=emhashimoto&show_icons=true" />
 
 </td>
 <td>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopviera&layout=compact" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emhashimoto&layout=compact" />
 
 </td>
 </tr>
