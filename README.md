@@ -16,3 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+<tr>
+<td>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fabiopviera&show_icons=true" />
+
+</td>
+<td>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopviera&layout=compact" />
+
+</td>
+</tr>
+</table>
