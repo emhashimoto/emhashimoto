@@ -1,4 +1,5 @@
-<img style="width: 100%; height: auto;" src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/ehashimoto.png" alt="my banner"> 
+<img style="width: 100%; height: 150px; object-fit: cover;"
+src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/ehashimoto.png" alt="my banner"> 
 
 <!--
 ## Hi there 👋
