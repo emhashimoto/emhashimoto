@@ -1,4 +1,4 @@
-<img style="width: 100%; height: 150px; object-fit: cover;"
+<img style="width: 100%; height: 100px; object-fit: cover; display: block;"
 src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/ehashimoto.png" alt="my banner"> 
 
 <!--
