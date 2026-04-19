@@ -1,9 +1,8 @@
+## Hi there 👋
 <img style="width: 95%; height: 100px; object-fit: cover; display: block;"
-src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/ehashimoto.png" alt="my banner"> 
+src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/mhashimoto.png" alt="my banner"> 
 
 <!--
-## Hi there 👋
-
 **emhashimoto/emhashimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
