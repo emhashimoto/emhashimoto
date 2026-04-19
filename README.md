@@ -1,34 +1,21 @@
 <img style="width: 92%; height: 100px; object-fit: cover; display: block;"
 src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/mhashimoto.png" alt="my banner"> 
 
-🌱 I’m currently a Associate Professor of Statistics
+👩‍💼 I’m currently a Associate Professor of Statistics
 
-📫 How to reach me: <a href="mailto:ehashimoto@professores.utfpr.edu.br">e-mail</a>
+🌱 I’m a PhD in Agricultural Statistics and Experimentation, <strong>USP</strong>
+
+🎓 Bachelor degree in Statistics, <strong>UNESP</strong>; Master degree in Agricultural Statistics and Experimentation, <strong>USP</strong>
 
 🔎 My research interests include:
 <ul>
-  <li>Experimental design</li>
-
-  <li>
-    Mixed models (also known as multi-level models, panel data models or hierarchical models)
-  </li>
-
-  <li>Data visualisation and visual inference</li>
-
-  <li>
-    Applications in bioinformatics and selective breeding (particularly plant breeding)
-  </li>
-
-  <li>Statistical software development, particularly in R</li>
-
-  <li>
-    Statistical practice and workflow (encompassing reproducibility, design, infrastructure and communication)
-  </li>
-
-  <li>
-    Machine learning and artificial intelligence (including computer vision and large language models)
-  </li>
+  <li>Survival analysis</li>
+  <li>Regression analysis</li>
+  <li>Experimental design and statistics</li>
+  <li>Engineering applications</li>
 </ul>
+
+📫 How to reach me: <a href="mailto:ehashimoto@professores.utfpr.edu.br">e-mail</a>
 
 <!--
 ## Hi there 👋
