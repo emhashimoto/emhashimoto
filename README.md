@@ -1,8 +1,12 @@
-## Hi there 👋
-<img style="width: 95%; height: 100px; object-fit: cover; display: block;"
+<img style="width: 92%; height: 100px; object-fit: cover; display: block;"
 src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/mhashimoto.png" alt="my banner"> 
 
+🌱 I’m currently a Associate Professor of Statistics
+📫 How to reach me: <a href="mailto:ehashimoto@professores.utfpr.edu.br">ehashimoto</a>
+
 <!--
+## Hi there 👋
+
 **emhashimoto/emhashimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
