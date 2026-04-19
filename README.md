@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/emhashimoto.png" alt="my banner"> 
+<img width="60%" src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/emhashimoto.png" alt="my banner"> 
 
 ## Hi there 👋
 
