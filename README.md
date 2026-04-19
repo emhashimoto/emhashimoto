@@ -1,4 +1,6 @@
-<img style="width: 100%; height: 125px; object-fit: cover; object-position: top;" src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/hashimoto.png" alt="my banner"> 
+<div style="text-align: center;">
+<img style="width: 60%" src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/hashimoto.png" alt="my banner"> 
+</div>
 
 <!--
 ## Hi there 👋
