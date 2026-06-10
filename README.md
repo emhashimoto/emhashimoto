@@ -1,7 +1,7 @@
 <img style="width: 93%; height: 100px; object-fit: cover; display: block;"
 src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/flores.png" alt="my banner"> 
 
-👩‍💼 I’m currently a Associate Professor of Statistics, UTFPR
+👩‍💼 I’m currently a Assistant Professor of Statistics, UTFPR
 
 🌱 I’m a PhD in Agricultural Statistics and Experimentation, USP
 
@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/flores.png" 
   <li>Engineering applications</li>
 </ul>
 
-📫 How to reach me: <a href="mailto:ehashimoto@professores.utfpr.edu.br">e-mail</a>
+📫 How to reach me: <a href="mailto:elizabeth.hashimoto@unesp.br">e-mail</a>
 
 <!--
 ## Hi there 👋
