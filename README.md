@@ -1,7 +1,7 @@
 <img style="width: 93%; height: 100px; object-fit: cover; display: block;"
 src="https://raw.githubusercontent.com/emhashimoto/emhashimoto/main/flores.png" alt="my banner"> 
 
-👩‍💼 I’m currently a Assistant Professor of Statistics, UTFPR
+👩‍💼 I’m currently a Assistant Professor of Statistics, UNESP
 
 🌱 I’m a PhD in Agricultural Statistics and Experimentation, USP
 
